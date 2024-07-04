@@ -32,32 +32,15 @@ I'm a Quant Developer Engineer based in Morocco 🙏, I am passionate about open
 
 <!-- algolia -->
 <br>
-<hr/>
-
-## ⚡ Recent GitHub Activity
-<a href="https://github.com/Wiam-Rochdi"><img alt="Wiam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Wiam-Rochdi&custom_title=Wiam's%20Contribution%20Graph&theme=react-dark" /></a>
-
-
-<hr/>
-
-## 🐍
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/Wiam-Rochdi/Wiam-Rochdi/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
-<hr/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:Wiam-Rochdi7@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="mailto:Wiam.rochdi01@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/Wiam-Rochdi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://in.linkedin.com/in/jay-pavasiya-22520516b"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/Wiam-Rochdi"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
-	<a href="https://stackoverflow.com/users/13516564/jay"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
-	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+	<a href="https://www.linkedin.com/in/wiam-rochdi-2ba52a163/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+
+
 	
 </p>
 
