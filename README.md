@@ -26,14 +26,6 @@ Let's connect and collaborate to push the boundaries of finance technology toget
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wiam-Rochdi&theme=cobalt&column=3&margin-w=15&margin-h=15" alt="Trophies">
-</p>
-
----
-
 ## 🎮 Let's Connect
 
 <p align="center">
