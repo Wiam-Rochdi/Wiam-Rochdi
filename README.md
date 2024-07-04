@@ -6,20 +6,16 @@
 
 ---
 
-🎮 As a girl gamer and Quantitative Developer Engineer based in Morocco 🇲🇦, specializing in finance and decision-making, I bring a passion for coding, open-source projects, and exploring new technologies. My journey as a junior Quantitative Developer has been marked by a commitment to creating and contributing to impactful open-source projects. Through these endeavors, I not only expand my technical skills but also actively support the broader developer community.
-
-Let's connect and collaborate to push the boundaries of finance technology together! 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wiam-Rochdi&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true" alt="GitHub Stats">
+</div>
 
 ---
 
-## 🌸 Streak Stats & Languages
+## 🎮 Gamer Vibes
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wiam-Rochdi&theme=pink-midnight-purple" alt="Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiam-Rochdi&theme=pink-midnight-purple&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiam-Rochdi&layout=compact&theme=cobalt" alt="Top Languages">
 </p>
 
 ---
@@ -27,9 +23,7 @@ Let's connect and collaborate to push the boundaries of finance technology toget
 ## 🏆 Trophies
 
 <p align="center">
-  <a href="https://github.com/Wiam-Rochdi">
-    <img src="https://github-profile-trophy.vercel.app/?username=Wiam-Rochdi&row=1&column=3&theme=pink-midnight-purple" alt="Trophies">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Wiam-Rochdi&theme=cobalt&column=3&margin-w=15&margin-h=15" alt="Trophies">
 </p>
 
 ---
@@ -37,7 +31,7 @@ Let's connect and collaborate to push the boundaries of finance technology toget
 ## 🎮 Let's Connect
 
 <p align="center">
-  <a href="mailto:Wiam.rochdi01@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Gmail" alt="Gmail"></a>
-  <a href="https://github.com/Wiam-Rochdi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="GitHub" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/wiam-rochdi-2ba52a163/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"></a>
+  <a href="mailto:Wiam.rochdi01@gmail.com"><img src="https://img.icons8.com/bubbles/100/000000/gmail.png" title="Gmail" alt="Gmail"></a>
+  <a href="https://github.com/Wiam-Rochdi"><img src="https://img.icons8.com/bubbles/100/000000/github.png" title="GitHub" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/wiam-rochdi-2ba52a163/"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"></a>
 </p>
