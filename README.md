@@ -10,15 +10,11 @@
 Let's connect and collaborate to push the boundaries of finance technology together! 🚀
 
 ---
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wiam-Rochdi&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true" alt="GitHub Stats">
 </div>
 
----
-
-## 🎮 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiam-Rochdi&layout=compact&theme=cobalt" alt="Top Languages">
